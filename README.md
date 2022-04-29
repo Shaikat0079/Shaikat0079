@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shaikat0079
+- 👋 Hi, I’m Shaikat Barua
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ...
